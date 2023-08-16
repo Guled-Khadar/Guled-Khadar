@@ -17,7 +17,7 @@ I'm continuously enhancing my skills in BackEnd App dev. I believe in the power 
 
 🚀 Projects
 1. Cats-Cookiz
-   - Description: The website is a platform that connects the people who might not have to cook like students with local cooks who can offer                    homemade food. By offering them a variety of dishes. .
+   - Description: The website is a platform that connects the people who might not have to cook like students with local cooks who can offer                    homemade food. By offering them a variety of dishes.
    - Tech Stack: JavaScrip, NoSql Db Mongo Atlas, Express.
    - GitHub Repo: https://github.com/irodamrj/Cats-Cookiz
    - Live Demo:  https://catscookiz.onrender.com
@@ -29,5 +29,10 @@ I'm open to collaboration, learning opportunities, and connecting with fellow de
 Thanks for visiting my profile! Let's code and create something awesome together. 😄
 
 
-<img align="left" width="45%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Gullied&hide_progress=true">
-<img align="left" width="45%" height="180px" src= "https://github-readme-stats.vercel.app/api?username=Gullied&show_icons=true&theme=codeSTACKr">
+<img align="left" width="45%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Guled-Khadar&hide_progress=true">
+<img align="left" width="45%" height="180px" src= "https://github-readme-stats.vercel.app/api?username=Guled-Khadar&show_icons=true&theme=codeSTACKr">
+
+[![Cats Cookiz Repository](https://github-readme-stats.vercel.app/api/pin/?username=Guled-Khadar&repo=Cats-Cookiz)](https://github.com/Guled-Khadar/Cats-Cookiz)
+
+
+
